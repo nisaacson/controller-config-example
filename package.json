@@ -1,0 +1,27 @@
+{
+  "name": "controller-config-example",
+  "version": "0.0.0",
+  "description": "Example of passing a configuration object to an Express controller",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nisaacson/controller-config-example.git"
+  },
+  "keywords": [
+    "express",
+    "config",
+    "controller",
+    "example"
+  ],
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "4cdab645bf4451d315fbd77a6032918150ea3a5a"
+}
